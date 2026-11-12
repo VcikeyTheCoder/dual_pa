@@ -11,7 +11,7 @@ With equal values it is Klipper's pressure advance, step for step.
 
 ```
 cd ~
-git clone https://gh.ali360.cloudns.ch/VcikeyTheCoder/dual_pa.git
+git clone https://github.com/VcikeyTheCoder/dual_pa.git
 bash ~/dual_pa/install.sh
 ```
 

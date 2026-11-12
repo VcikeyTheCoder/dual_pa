@@ -73,7 +73,7 @@ happens the other way round: the flow is a little high while settling.
 
 ```
 cd ~
-git clone https://gh.ali360.cloudns.ch/VcikeyTheCoder/dual_pa.git
+git clone https://github.com/VcikeyTheCoder/dual_pa.git
 bash ~/dual_pa/install.sh
 ```
 
@@ -88,7 +88,7 @@ To get updates in Moonraker, add to `moonraker.conf`:
 [update_manager dual_pa]
 type: git_repo
 path: ~/dual_pa
-origin: https://gh.ali360.cloudns.ch/VcikeyTheCoder/dual_pa.git
+origin: https://github.com/VcikeyTheCoder/dual_pa.git
 primary_branch: main
 managed_services: klipper
 ```
